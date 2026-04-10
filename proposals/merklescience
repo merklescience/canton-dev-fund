@@ -1,0 +1,17 @@
+Development Fund Proposal Submission
+Proposal file: https://docs.google.com/document/d/19mJ_Sa_N9Mm4bI6OMLm2kno8j_UKwcoRz4IkPjP2t8g/edit?usp=sharing 
+Link to the proposal added in this PR (e.g., /proposals/your-proposal-name.md)
+
+Summary
+Briefly describe the proposal and the value it delivers to the Canton ecosystem (2–3 sentences).
+This proposal aims to deploy Merkle Science’s predictive AI-driven risk intelligence on Canton to enhance network security and enable institutional adoption, addressing heightened AML and CFT risks arising from private transactions. By leveraging behavioral analytics to detect illicit activity across complex transaction flows, the solution aligns with evolving regulatory expectations and modern financial crime patterns. Additionally, integrating Canton into Merkle Science’s platform creates a pathway to onboard institutional users, driving both network security and measurable growth in activity and participation.
+
+
+Checklist
+ Proposal file added under /proposals/
+ Milestones and funding amounts defined
+ Acceptance criteria included
+ Alignment with Canton priorities described
+
+Notes for Reviewers
+(Add anything the Tech & Ops Committee should pay attention to.)
