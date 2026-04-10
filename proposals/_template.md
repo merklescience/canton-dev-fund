@@ -15,7 +15,6 @@
 - daml-tooling
 - dar-app-management
 - canton-protocol-multi-synchronizer
-- canton-apis
 - node-deployment-operations
 - global-synchronizer-scaling
 - financial-workflows-composability
